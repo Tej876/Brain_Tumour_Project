@@ -1,0 +1,35 @@
+
+MEMBER D: CONFIDENCE AND PERFORMANCE EVALUATION
+
+1. Calibration
+Validation accuracy before calibration: 0.8859
+Validation accuracy after calibration:  0.8859
+
+Mean confidence before calibration: 0.9005
+Mean confidence after calibration:  0.8848
+
+ECE before calibration: 0.0278
+ECE after calibration:  0.0162
+
+Learned temperature: 1.1155
+Validation NLL before: 0.3387
+Validation NLL after:  0.3358
+
+2. Review policy
+Selected threshold: 0.5250710882178092
+Validation coverage: 0.9588859416445623
+
+
+MEMBER 4: FINAL EVALUATION
+
+Test review rate: 6.70%
+Test coverage: 93.30%
+Accuracy on accepted predictions: 83.43%
+
+Validation ECE before calibration: 0.0278
+Validation ECE after calibration: 0.0162
+
+Validation NLL before calibration: 0.3387
+Validation NLL after calibration: 0.3358
+
+Selected confidence threshold: 0.5251
