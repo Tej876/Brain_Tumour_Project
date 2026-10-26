@@ -1,0 +1,11 @@
+label,predicted_label,count
+meningioma,pituitary,102
+meningioma,notumor,64
+glioma,notumor,49
+glioma,meningioma,39
+glioma,pituitary,28
+meningioma,glioma,25
+pituitary,glioma,4
+notumor,pituitary,3
+notumor,meningioma,1
+pituitary,meningioma,1
